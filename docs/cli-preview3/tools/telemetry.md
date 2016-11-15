@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
-ms.assetid: f2b312bb-f80b-4b0d-9101-93908f06a6fa
+ms.assetid: 9fed32a2-ce1d-4509-a80c-135052d68fbc
 ---
 
 # .NET Core Tools Telemetry

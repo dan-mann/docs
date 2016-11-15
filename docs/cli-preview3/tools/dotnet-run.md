@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
-ms.assetid: 495ff50b-cb30-4d30-8f20-beb3d5e7c31f
+ms.assetid: 36816295-2e11-4255-9063-b756eab224d3
 ---
 
 #dotnet-run

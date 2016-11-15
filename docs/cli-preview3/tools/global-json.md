@@ -10,7 +10,7 @@ ms.topic: article
 ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
-ms.assetid: e1ac9659-425f-4486-a376-c12ca942ead8
+ms.assetid: 3f6d6421-c457-493c-9fec-f3d5cac541b3
 ---
 
 # global.json reference

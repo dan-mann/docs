@@ -9,6 +9,7 @@ ms.topic: article
 ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
+ms.assetid: 0db8cf62-e7bb-4ff7-b317-e092c0b266ee
 ---
 
 High level overview of changes in CLI Preview 3

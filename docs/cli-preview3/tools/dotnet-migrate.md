@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
-ms.assetid: 70285a83-4103-4617-be8b-d0e1e9a4a91d
+ms.assetid: e1a6d0b6-f6ba-40d6-a3c8-ed5e9392bac2
 ---
 
 #dotnet-migrate

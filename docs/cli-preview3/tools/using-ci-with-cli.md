@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
-ms.assetid: 5fb15297-a276-417f-8c4f-267281357769
+ms.assetid: 691d6d18-2aeb-4ce9-815c-e536ae3d4c4e
 ---
 
 # Using .NET Core SDK and tools in Continuous Integration (CI)

@@ -9,7 +9,7 @@ ms.topic: article
 ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
-ms.assetid: 1bebd25a-120f-48d3-8c25-c89965afcbcd
+ms.assetid: 8de2f88d-7f4b-45ee-9356-0de6aeb531fe
 ---
 
 # .NET Core CLI extensibility model 

@@ -10,7 +10,7 @@ ms.topic: article
 ms.prod: .net-core
 ms.technology: .net-core-technologies
 ms.devlang: dotnet
-ms.assetid: 59b9c456-2bfd-4adc-8202-a1c6a0a6c787
+ms.assetid: e082d9aa-260a-484b-bc91-71f96dfa76b8
 ---
 
 #dotnet-install scripts reference
