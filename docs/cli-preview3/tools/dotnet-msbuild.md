@@ -12,10 +12,10 @@ ms.devlang: dotnet
 ms.assetid: ffdc40ba-ef33-463e-aa35-b0af1fe615a2
 ---
 
-#dotnet-m/msbuild
+#dotnet-msbuild
 
 ## Name 
-dotnet-msbuild -- msbuilds a project and all of its dependencies 
+dotnet-msbuild -- Builds a project and all of its dependencies 
 
 ## Synopsis
 
@@ -36,7 +36,7 @@ Build a project and its dependencies:
 
 Build a project and its dependencies using Release configuration:
 
-`dotnet msbuild /p:Configuration=Release--configuration Release`
+`dotnet msbuild /p:Configuration=Release`
 
 Run the publish target and publish for the `osx.10.11-x64` RID:
 
